@@ -40,7 +40,7 @@ Please keep in mind the case and rotary encoder knob are all 3d printed.
 |---|---|
 |1|Seeed XIAO RP2040|
 |5|MX-Style Switches|
-|5|Pink Blank DSA keycaps|
+|5|White Blank DSA keycaps|
 |5|SK6812 MINI-E LEDs|
 |1|EC11 Rotary encoder|
 |4|M3x16mm screws|
