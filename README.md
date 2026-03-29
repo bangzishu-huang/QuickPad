@@ -3,6 +3,17 @@ A 5 key macro pad with a rotary encoder that is made in order to enhance product
 
 I made this macropad in order to refresh my memory on schematic and also PCB design, as the last time I touched this was probably 1-2 months ago. I would say I learned a lot throughout the process and I really enjoyed it! Just in general, I feel like it was a really good project for me to get back into the groove with electronics, etc, so I'm looking forward to using this experience for more advanced future projects!
 
+# Demo
+This is an image of QuickPad and also my cat figure on the stand! (Just as how the design is intended to be used)
+
+![IMG_5072](https://github.com/user-attachments/assets/280203c6-1540-43fd-b995-79968e11af79)
+
+Image of QuickPad on it's own.
+
+![IMG_5071](https://github.com/user-attachments/assets/0d3097e2-4850-4eb0-98b6-84319dd71b43)
+
+
+# 3D Model
 <img width="1557" height="802" alt="Case1" src="https://github.com/user-attachments/assets/309e9f41-4c92-4115-a4d8-3ccf547cd61d" />
 
 # PCB
